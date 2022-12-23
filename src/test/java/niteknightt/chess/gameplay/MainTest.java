@@ -1,4 +1,4 @@
-package niteknightt.gameplay;
+package niteknightt.chess.gameplay;
 
 import niteknightt.chess.gameplay.Main;
 import org.junit.jupiter.api.Assertions;
